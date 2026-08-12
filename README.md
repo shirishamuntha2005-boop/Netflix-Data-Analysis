@@ -9,6 +9,9 @@ The project analyzes Netflix content distribution, countries, release trends, ra
 An interactive **Streamlit dashboard** was also developed to allow users to explore the dataset using filters and visualizations.
 
 ---
+## 🚀 Live Demo
+
+👉 [View Live Netflix Dashboard](https://netflix-data-analysis-mctxwbhsdfid7shktmg8mk.streamlit.app/)
 
 ## 🎯 Project Objectives
 

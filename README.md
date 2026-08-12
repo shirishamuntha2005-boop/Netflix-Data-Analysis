@@ -35,3 +35,10 @@
 ### 9. Release Year Trend
 
 ![Release Year Trend](images/release_year_trend.png)
+
+---
+
+## 👩‍💻 Author
+
+**Muntha Shirisha**  
+BCA Student | Data Analysis Enthusiast

@@ -1,31 +1,37 @@
-# Netflix Data Analysis
+## 📊 Project Screenshots
 
-## 📌 Project Overview
-This project analyzes the Netflix Movies and TV Shows dataset using Python. The analysis provides insights into content distribution, genres, countries, ratings, and yearly trends.
+### 1. Content Type Analysis
 
-## 🛠 Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+![Content Type Analysis](images/content_type.png)
 
-## 📂 Dataset
-- Netflix Titles Dataset (CSV)
+### 2. Movies vs TV Shows
 
-## 📊 Analysis Performed
-- Data Cleaning
-- Handling Missing Values
-- Movies vs TV Shows Analysis
-- Content Rating Analysis
-- Country-wise Content Analysis
-- Year-wise Release Trends
-- Data Visualization
+![Movies vs TV Shows](images/movies_tv_distribution.png)
 
-## 📁 Project Files
-- netflix_analysis.ipynb
-- netflix_titles.csv
+### 3. Genre Analysis
 
-## 🎯 Conclusion
-This project demonstrates data cleaning, exploratory data analysis (EDA), and visualization using Python.
+![Genre Analysis](images/genre_analysis.png)
+
+### 4. Top Genres
+
+![Top Genres](images/top_genres.png)
+
+### 5. Top Countries
+
+![Top Countries](images/top_countries.png)
+
+### 6. Rating Analysis
+
+![Rating Analysis](images/rating_analysis.png)
+
+### 7. Ratings Distribution
+
+![Ratings Distribution](images/ratings.png)
+
+### 8. Netflix Growth
+
+![Netflix Growth](images/netflix_growth.png)
+
+### 9. Release Year Trend
+
+![Release Year Trend](images/release_year_trend.png)
